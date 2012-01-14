@@ -34,6 +34,7 @@
          is_empty/1]).
 
 -export([iterator/2,
+         iterator/3,
          iterator_move/2,
          iterator_close/1]).
 
